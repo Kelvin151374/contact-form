@@ -1,0 +1,42 @@
+body{
+    background-color: beige;
+}
+.one{
+    width: 400px;
+}
+.ke{
+    float: left;
+    width: 50%;
+    text-align: right;
+}
+/* .message{
+    float: right;
+    width: 50%;
+    text-align: left;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button{
+    width: 400px;
+    background-color: rgb(255, 13, 13);
+    border: none;
+    border: 1px solid;
+    color:azure ;
+}
